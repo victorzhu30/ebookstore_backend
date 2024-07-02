@@ -1,0 +1,1 @@
+使用静态资源目录存储图片：通常，春季引导将"src/main/resources/static"目录用作静态资源的根目录。你可以在此处放入你的图片文件，并通过类似"/name-of-your-image.jpg"的URL直接调用它们。
